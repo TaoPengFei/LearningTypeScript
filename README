@@ -3,4 +3,4 @@ yum install -y epel-release
 rpm -ivh https://centos6.iuscommunity.org/ius-release.rpm
 yum list git2u
 yum install -y git2u
-git --version
+git --version 121312
